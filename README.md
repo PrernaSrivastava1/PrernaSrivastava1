@@ -1,24 +1,65 @@
 <h1 align="center">Hi 👋, I'm Prerna Srivastava</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">Software Engineer • AI Engineer • Java Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prernasrivastava1&label=Profile%20views&color=0e75b6&style=flat" alt="prernasrivastava1" /> </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="600">
-<br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prernasrivastava1" alt="prernasrivastava1" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.linkedin.com/in/prerna-srivastava-2b6482282/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/PrernaSrivastava1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="30" width="40" /></a>
-  
-  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Java+Backend+Developer;Spring+Boot+%7C+React+%7C+AI%2FML;Always+Learning+Always+Building" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PrernaSrivastava1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prernasrivastava1&show_icons=true&locale=en&layout=compact" alt="prernasrivastava1" /></p>
+<p align="center">
+<img width="700" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/README.md#gh-dark-mode-only"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prernasrivastava1&show_icons=true&locale=en" alt="prernasrivastava1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prernasrivastava1&" alt="prernasrivastava1" /></p>
+##  About Me
+
+- B.Tech CSE Student
+- Interested in AI Engineering, RAG, Vector Search & Backend Development
+- Currently learning Distributed Systems and scalable backend architectures
+- I enjoy building products that solve real-world problems.
+
+## Current Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,nodejs,js,ts,mongodb,docker,git,github,tailwind,firebase,c"/>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrernaSrivastava1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaSrivastava1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PrernaSrivastava1&theme=tokyonight&hide_border=true"/>
+</p>
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrernaSrivastava1&theme=tokyo-night"/>
+</p>
+
+## 🐍 Contribution Snake
+
+> Enable the Platane/snk GitHub Action in your profile repository to render this automatically.
+
+```md
+![Snake animation](https://raw.githubusercontent.com/PrernaSrivastava1/PrernaSrivastava1/output/github-contribution-grid-snake-dark.svg)
+```
+
+##  Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prerna-srivastava-2b6482282/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/PrernaSrivastava1"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
+
+---
+
+<p align="center"><i>"Building software that solves real-world problems, one commit at a time."</i></p>
