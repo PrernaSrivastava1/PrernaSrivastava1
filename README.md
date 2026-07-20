@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img width="700" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/README.md#gh-dark-mode-only"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="700">
 </p>
 
 ---
