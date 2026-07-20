@@ -45,13 +45,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrernaSrivastava1&theme=tokyo-night"/>
 </p>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrernaSrivastava1/PrernaSrivastava1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-> Enable the Platane/snk GitHub Action in your profile repository to render this automatically.
-
-```md
-![Snake animation](https://raw.githubusercontent.com/PrernaSrivastava1/PrernaSrivastava1/output/github-contribution-grid-snake-dark.svg)
-```
 
 ##  Connect
 
