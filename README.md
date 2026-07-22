@@ -25,7 +25,7 @@
 ## Current Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,nodejs,js,ts,mongodb,docker,git,github,tailwind,firebase,c"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nodejs,mongodb,docker,tailwind"/>
 </p>
 
 ## GitHub Stats
